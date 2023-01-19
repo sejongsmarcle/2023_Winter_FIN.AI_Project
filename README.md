@@ -49,6 +49,8 @@
 | 팀 | 팀원 | 인공지능 | 프로젝트 |
 |:---:|:---:|:---:|:---:|
 | VECTOR | 19 이용빈, 21 송지원 | Pose Estimation | MYPTAI |
-| LAST DANCE | 20 강인영, 21 김용현 | 
+| LAST DANCE | 20 강인영, 21 김용현 | NLP | IFUS | 
+| MuLife | 21 노지민 | GAN | MuLife(Music Generator) |
+| HYPERTENSION | 21 김수환 | Prediction | 해양 교통 흐름 예측 |
 
 
