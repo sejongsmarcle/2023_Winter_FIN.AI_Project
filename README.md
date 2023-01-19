@@ -49,9 +49,9 @@
 ## 팀 & 프로젝트 개요
 | 팀 | 팀원 | 인공지능 | 프로젝트 |
 |:---:|:---:|:---:|:---:|
-| VECTOR | 19 이용빈, 21 송지원 | Pose Estimation | MYPTAI |
-| LAST DANCE | 20 강인영, 21 김용현 | NLP | IFUS | 
-| MuLife | 21 노지민 | GAN | MuLife(Music Generator) |
+| VECTOR | 19 이용빈, 21 송지원 | Pose Estimation | [MYPTAI](https://smarcle.notion.site/VECTOR-e53650266f89494ab80f2d0dfb1ea311) |
+| LAST DANCE | 20 강인영, 21 김용현 | NLP | [IFUS](https://smarcle.notion.site/LAST-DANCE-b491bd3454474bf3bdd5db4e567a693c) | 
+| MuLife | 21 노지민 | GAN | [MuLife(Music Generator)](https://smarcle.notion.site/MuLife-c8f16b341fdf4f08b952ec7732f2df16) |
 | HYPERTENSION | 21 김수환 | Prediction | 해양 교통 흐름 예측 |
 
 
